@@ -106,7 +106,6 @@ header ul li a{
     bottom:77px;
     transform: translateX(-50%);
     display: flex;  
-    border-radius: 20px;
 }
 .thumb li{
     list-style: none;
